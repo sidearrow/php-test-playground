@@ -1,0 +1,6 @@
+{
+    "name": "sidearrow/php-test-playground",
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
